@@ -102,8 +102,8 @@ pio run -e <Your target board> --target uploadfs
 ### Step 5: Usage
 
 #### Web Interface
-- **Binary Mode**: Simple on/off toggle
-- **Timer Mode**: Set a countdown timer (displays "BUSY" until timer expires)
+- **Binary Mode**: Simple busy/free toggle
+- **Timer Mode**: Set a countdown timer (displays "BUSY" and time left until timer expires)
 - **Pomodoro Mode**: Work timer with automatic breaks (timer/5)
 - **Running String**: Custom scrolling text with background color
 
