@@ -47,8 +47,7 @@ Project written in C++ using PlatformIO and Arduino framework. Images and animat
 - Use the provided blueprint: `blueprint/box.dxf`
 - Cut the enclosure parts using a laser cutter
 - Mount the ESP32 and LED matrix inside
-- Ensure proper ventilation for the ESP32
-
+  
 ### Step 2: Software Setup
 
 #### Clone and Configure
